@@ -5,8 +5,10 @@
 ## QuickStart
 
 <!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
+mysql 数据库安装
+egg 连接mysql 数据库
+实现文章发布接口，获取列表，获取详情
+Postman 测试接口请求
 
 ### Development
 
